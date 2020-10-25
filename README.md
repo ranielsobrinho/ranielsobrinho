@@ -1,7 +1,7 @@
 ### Hi there 👋  
 
-My name is Raniel Sobrinho and I'm a System Analysis and Development at Faculdade Lourenço Filho in Fortaleza-CE.  
-I hope to enjoy the world of programming and let's code ! 
+My name is **Raniel Sobrinho** and I'm a **System Analysis and Development** at *Faculdade Lourenço Filho in Fortaleza-CE.*  
+I hope to enjoy the world of programming and **let's code!** 
 
 ```js
 const  me = {
