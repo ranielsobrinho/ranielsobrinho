@@ -10,7 +10,7 @@ const  me = {
     college: "System Analysis and Development",
     about: "I am a young man who is loving learning to program",
     goals: ['Full-Stack Dev', 'Robotics', 'Bioinformatic'],
-    learning: ['MEVN Stack','MEAN', 'Python']
+    learning: ['MEVN Stack','MEAN Stack', 'Python']
 };
 ```
 
