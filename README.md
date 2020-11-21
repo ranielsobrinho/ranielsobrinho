@@ -9,7 +9,7 @@ I hope to enjoy the world of programming and **let's code!**
 const  me = {
     instagram: "raniel.sobrinho",
     discord: "Raniel Sobrinho#0221",
-    college: "System Analysis and Development",
+    college: "Systems Analysis and Development",
     about: "I am a young man who is loving learning to program",
     goals: ['Full-Stack Dev', 'Robotics', 'Bioinformatic'],
     learning: ['MEVN Stack','MEAN Stack', 'Python']
