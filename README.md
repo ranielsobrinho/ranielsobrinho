@@ -7,8 +7,7 @@ I hope to enjoy the world of programming and **let's code!**
 
 ```js
 const  me = {
-    instagram: "raniel.sobrinho",
-    discord: "Raniel Sobrinho#0221",
+    linkedin: "https://www.linkedin.com/in/raniel-sobrinho-1b249514b/",
     college: "Systems Analysis and Development",
     about: "I am a young man who is loving learning to program",
     goals: ['Full-Stack Dev', 'Robotics', 'Bioinformatic'],
