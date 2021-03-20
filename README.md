@@ -2,7 +2,7 @@
 
 <h3>Glad to see you here</h3>
 
-My name is **Raniel Sobrinho** and I'm a **System Analysis and Development** at *Faculdade Lourenço Filho in Fortaleza-CE.*  
+My name is **Raniel Sobrinho** and I'm at **System Analysis and Development** in *Faculdade Lourenço Filho in Fortaleza-CE.*  
 I hope to enjoy the world of programming and **let's code!** 
 
 ```js
@@ -10,8 +10,8 @@ const  me = {
     linkedin: "https://www.linkedin.com/in/raniel-sobrinho-1b249514b/",
     college: "Systems Analysis and Development",
     about: "I am a young man who is loving learning to program",
-    goals: ['Full-Stack Dev', 'Robotics', 'Bioinformatic'],
-    learning: ['MEVN Stack','MEAN Stack', 'Python']
+    goals: ['Full-Stack Developer', 'Arduino', 'Raspberry Pi'],
+    learning: ['Angular','NodeJs', 'TypeScript']
 };
 ```
 
