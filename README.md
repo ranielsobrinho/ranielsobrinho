@@ -11,7 +11,7 @@ const  me = {
     college: "Systems Analysis and Development",
     about: "I am a young man who is loving learning to program",
     goals: ['Full-Stack Developer', 'Arduino', 'Raspberry Pi'],
-    learning: ['Angular','NodeJs', 'TypeScript']
+    learning: ['React','NodeJs', 'TypeScript']
 };
 ```
 
